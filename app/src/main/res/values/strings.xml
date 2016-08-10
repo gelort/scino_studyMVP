@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyMVP</string>
+
+    <string name="search">Search</string>
+    <string name="search_repository_title">Search Repository</string>
+    <string name="repositories_list_title">Repositories</string>
+</resources>
